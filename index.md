@@ -51,8 +51,9 @@ sections:
       id: announcements
       announcement_items:
         - title: New Announcement
-          date: 10 June 2024
-          announcement: Announcement content
-          link_text: ""
-          link_url: ""
+          date: 30 April 2024
+          announcement: A "MUST-TRY" in Osaka, Japan! We had this super huuuge unagi
+            and... (ready?) Horse-muscle rice?! (Like what? Ikr)
+          link_text: Unagi Kushiyaki Idumo
+          link_url: https://www.google.com/maps/place/Unagi+Kushiyaki+Idumo/@34.7030178,135.4927533,17z/data=!3m1!4b1!4m6!3m5!1s0x6000e751d3b56205:0xeb34d2134f7e06f3!8m2!3d34.7030178!4d135.4953282!16s%2Fg%2F11fl96zzy3?authuser=0&entry=ttu
 ---
