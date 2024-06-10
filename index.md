@@ -51,6 +51,12 @@ sections:
       id: announcements
       announcement_items:
         - title: New Announcement
+          date: 07 May 2024
+          announcement: '"Chinese-spices" craving GREATLY satisfied today! Both the dried
+            sauce and soup base options are sooo good!'
+          link_text: Zhang Liang MaLa Tang
+          link_url: https://www.google.com/maps/place/%E6%96%B0%E5%8A%A0%E5%9D%A1%E5%BC%A0%E4%BA%AE%E9%BA%BB%E8%BE%A3%E7%83%ABZhang+Liang+MaLa+Tang+@+PLQ+Mall/@1.3173198,103.8898671,17z/data=!3m2!4b1!5s0x31da18183d5b7231:0x1f7104140a0e3157!4m6!3m5!1s0x31da1915738fee51:0xea0563182dcd248!8m2!3d1.3173198!4d103.892442!16s%2Fg%2F11thp6nxmp?authuser=0&entry=ttu
+        - title: New Announcement
           date: 30 April 2024
           announcement: A "MUST-TRY" in Osaka, Japan! We had this super huuuge unagi
             and... (ready?) Horse-muscle rice?! (Like what? Ikr)
