@@ -8,7 +8,7 @@ notification: Here's a notification bar you can use!
 sections:
   - hero:
       title: Zhu Huaying
-      subtitle: Hero subtitle
+      subtitle: Hi, welcome to this site, nice to meet you!
       background: /images/hero-banner.png
       button: My LinkedIn
       url: https://www.linkedin.com/in/huaying-zhu-a19629264/
@@ -22,6 +22,7 @@ sections:
         - title: Page A
           description: Page A is important too
           url: /privacy/
+      variant: center
   - infobar:
       title: Infobar title
       subtitle: Subtitle
