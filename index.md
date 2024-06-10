@@ -9,7 +9,7 @@ sections:
   - hero:
       title: Zhu Huaying
       subtitle: Hi, welcome to this site, nice to meet you!
-      background: /images/hero-banner.png
+      background: /images/bannertest.jpg
       button: My LinkedIn
       url: https://www.linkedin.com/in/huaying-zhu-a19629264/
       key_highlights:
