@@ -31,7 +31,7 @@ description: ""
 <p>Youtube Channels</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Mobile Appss</p>
+<p>Mobile Apps</p>
 </th>
 </tr>
 <tr>
