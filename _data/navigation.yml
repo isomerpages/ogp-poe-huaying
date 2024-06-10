@@ -2,5 +2,5 @@ logo: /images/isomer-logo.svg
 links:
   - title: Contact Us
     url: /contact-us/
-  - title: Example Folder
-    collection: speeches
+  - title: Speech Folder
+    collection: example-folder
