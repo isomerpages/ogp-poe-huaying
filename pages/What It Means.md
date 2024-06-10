@@ -28,7 +28,7 @@ description: ""
 <p>Sites</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Youtube Channels</p>
+<p>YouTube Channels</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Mobile Apps</p>
@@ -65,6 +65,14 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Solo learn</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Garden Rhapsody - Supertree Grove (Gardens by the Bay)" src="/images/hero-banner.png">
+</div>
 </td>
 </tr>
 </tbody>
