@@ -39,10 +39,10 @@ sections:
           description: Madame Ooze
           linktext: Learn more
           url: https://www.google.com/maps/place/Madame+Ooze+Ice+Cream+Cafe+%26+Dessert+Bar+(+Last+Orders+at+10.45pm)/@1.2821398,103.8428572,17z/data=!3m2!4b1!5s0x31da190cd7aa7801:0x1150c2d1cea13cac!4m6!3m5!1s0x31da199cca49c4d1:0x874e5a4760650240!8m2!3d1.2821398!4d103.8454321!16s%2Fg%2F11mprhnpm2?authuser=0&entry=ttu
-        - title: Card
-          description: Card description
+        - title: Chinese Noodles
+          description: Xi'An Impressions
           linktext: Learn more
-          url: ""
+          url: https://www.google.com/maps/place/%E8%A5%BF%E5%AE%89%E5%8D%B0%E8%B1%A1+(People's+Park+Complex)/@1.3371093,103.7784129,13z/data=!3m1!5s0x31da199d2a1a2d39:0xc6bbcf2157bf15a2!4m10!1m2!2m1!1zWGknQW4gSW1wcmVzc2lvbiDopb_lronljbDosaEgY2hpbmF0b3du!3m6!1s0x31da19748322d417:0xaeb7337a5e0d8115!8m2!3d1.2845988!4d103.8425591!15sCidYaSdBbiBJbXByZXNzaW9uIOilv-WuieWNsOixoSBjaGluYXRvd25aKiIoeGkgYW4gaW1wcmVzc2lvbiDopb_lrokg5Y2w6LGhIGNoaW5hdG93bpIBCnJlc3RhdXJhbnSaASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVUkVYM0JtVEdOQkVBReABAA!16s%2Fg%2F11g9qgsjgw?authuser=0&entry=ttu
         - title: Korean Noodles
           description: Noodle Star K
           linktext: Learn more
