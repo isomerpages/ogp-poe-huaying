@@ -51,6 +51,12 @@ sections:
       id: announcements
       announcement_items:
         - title: New Announcement
+          date: 07 June 2024
+          announcement: You just can't ever get bored of some "good-ol" Thai food, can
+            you? It was simply "TRIPLE-S" good (sweet, sour, spicy)
+          link_text: Charen Thai Kitchen
+          link_url: https://www.google.com/maps/place/Charen+Thai+Kitchen/@1.3744262,103.8844694,17z/data=!3m2!4b1!5s0x31da1646400da125:0xdd3886491d9d84b6!4m6!3m5!1s0x31da1731e499a59b:0x37b570a1a3452798!8m2!3d1.3744262!4d103.8870443!16s%2Fg%2F11kvqptqxm?authuser=0&entry=ttu
+        - title: New Announcement
           date: 07 May 2024
           announcement: '"Chinese-spices" craving GREATLY satisfied today! Both the dried
             sauce and soup base options are sooo good!'
