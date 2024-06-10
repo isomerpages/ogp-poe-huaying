@@ -21,7 +21,7 @@ sections:
           url: https://gmail.com
         - title: Page A
           description: Page A is important too
-          url: /privacy/
+          url: /test/
       variant: center
   - textcards:
       title: FOODIES' gems
