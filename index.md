@@ -13,12 +13,12 @@ sections:
       button: My LinkedIn
       url: https://www.linkedin.com/in/huaying-zhu-a19629264/
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
+        - title: My Poly FYP
+          description: Product Demo
+          url: https://youtu.be/fzNnyjT4LUM
+        - title: My Uni FYP
+          description: Product Demo
+          url: https://youtu.be/MX9ZYgviUBE
         - title: Page A
           description: Page A is important too
           url: /test/
