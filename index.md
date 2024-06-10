@@ -19,9 +19,9 @@ sections:
         - title: My Uni FYP
           description: Product Demo
           url: https://youtu.be/MX9ZYgviUBE
-        - title: Page A
-          description: Page A is important too
-          url: /test/
+        - title: My Uni Project
+          description: Product Demo
+          url: https://youtu.be/sQQHDmEOM58
       variant: center
   - textcards:
       title: FOODIES' gems
