@@ -4,7 +4,7 @@ title: Isomer Site
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
   - hero:
       title: Zhu Huaying
@@ -23,12 +23,6 @@ sections:
           description: Page A is important too
           url: /privacy/
       variant: center
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
   - textcards:
       title: FOODIES' gems
       id: textcards
